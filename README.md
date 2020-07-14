@@ -48,6 +48,7 @@ Score : 76.7%
    - Path finding : 0% --- 0/5
    - Errors management : 84.6% --- 11/13  (/!\ 2 crashed)
 
-Made with Quentin TREHEUX (LuciferBahamut)
+Made with Quentin TREHEUX (LuciferBahamut) 
+and paul CZAPLINSKI
 
 Beware of -42 epitech students !

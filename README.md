@@ -1,7 +1,7 @@
 # lem-in
 {EPITECH} | First year | Elementary programming in C project
 
-Hex is an elaborate, magic-powered and self-building computer (not unlike the ‘shamble’, a kind of
+"Hex is an elaborate, magic-powered and self-building computer (not unlike the ‘shamble’, a kind of
 magical device used by the Witches of the Discworld) and is housed in the basement of the High Energy
 Magic Building at the Unseen University (UU) in the twin city of Ankh-Morpork.
 
@@ -12,7 +12,7 @@ who understands what he’s talking about.
 Hex has its origins in a device created by some student Wizards in the High Energy Magic building.
 In this form it was simply a complex network of glass tubes, containing ants. The wizards could then
 use punched cards to control which tubes the ants could crawl through, enabling it to perform simple
-mathematical functions.
+mathematical functions."
 
 https://en.wikipedia.org/wiki/Hex_(Discworld)
 

@@ -39,7 +39,7 @@ keep that in mind while making your error handling :)
 
 2nd semester Elementary programming in C (part I) unit
 
-Grade : C | Mark : 
+Grade : C | Mark : 1.5
 
 Score : 76.7%
 

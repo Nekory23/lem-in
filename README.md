@@ -47,7 +47,7 @@ Grade : C | Mark : 1.5
 | Full map parsing  | 100%       | 9/9       | x           |
 | Path finding      | 0%         | 0/5       | x           |
 | Errors management | 84.6%      | 11/13     | Yes (2)     |
-| **End score ASM** | **76.7%**  | **23/30** | **Yes (2)** |
+| **End score**     | **76.7%**  | **23/30** | **Yes (2)** |
 
 Made with Quentin TREHEUX ([LuciferBahamut](https://github.com/LuciferBahamut)) and paul CZAPLINSKI
 

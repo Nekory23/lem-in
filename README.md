@@ -1,5 +1,5 @@
 # lem-in
-{EPITECH} | First year | Elementary programming in C project
+# {EPITECH} | First year | Elementary programming in C project
 
 "Hex is an elaborate, magic-powered and self-building computer (not unlike the ‘shamble’, a kind of
 magical device used by the Witches of the Discworld) and is housed in the basement of the High Energy
@@ -37,18 +37,18 @@ keep that in mind while making your error handling :)
 
 ========================
 
-2nd semester Elementary programming in C (part I) unit
+## 2nd semester Elementary programming in C (part I) unit
 
 Grade : C | Mark : 1.5
 
-Score : 76.7%
+| Category          | Percentage | Tests     | Crash ?     |
+|-------------------|------------|-----------|-------------|
+| Basic map parsing | 100%       | 3/3       | x           |
+| Full map parsing  | 100%       | 9/9       | x           |
+| Path finding      | 0%         | 0/5       | x           |
+| Errors management | 84.6%      | 11/13     | Yes (2)     |
+| **End score ASM** | **76.7%**  | **23/30** | **Yes (2)** |
 
-   - Basic map parsing : 100% --- 3/3
-   - Full map parsing : 100% --- 9/9
-   - Path finding : 0% --- 0/5
-   - Errors management : 84.6% --- 11/13  (/!\ 2 crashed)
-
-Made with Quentin TREHEUX (LuciferBahamut) 
-and paul CZAPLINSKI
+Made with Quentin TREHEUX ([LuciferBahamut](https://github.com/LuciferBahamut)) and paul CZAPLINSKI
 
 Beware of -42 epitech students !
